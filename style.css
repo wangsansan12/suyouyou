@@ -1,0 +1,30 @@
+body{
+	background-color: beige;
+}
+pre.one{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+}
+a.two:visited{
+	color: #e6a9ff;
+	opacity: 100%;
+}
+a.two:link{
+	color: #e6a9ff;
+	opacity: 100%;
+}
+a.two:hover{
+	color: #e6a9ff;
+	opacity: 60%;
+}
+a.two:active{
+	color: #e6a9ff;
+	opacity: 100%;
+}
+img.three{
+	opacity: 100%;
+}
+img.three:hover{
+	opacity: 50%;
+}
